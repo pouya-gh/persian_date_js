@@ -14,6 +14,12 @@ And then execute:
 
     $ bundle
 
+Then add the following line to your application.js file:
+
+```javascript
+//= require persian-date
+```
+
 Or install it yourself as:
 
     $ gem install persian_date_js
